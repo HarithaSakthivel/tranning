@@ -60,7 +60,7 @@
 <body>
 
   <div class="login-box">
-    <!-- Replace 'COLLEGE LOGO.png' with your college logo image path or URL -->
+    <!-- Replace 'COLLEGE LOGO.png' with your college logo image path or COLLEGE LOGO.png -->
     <img src="COLLEGE LOGO.png" alt="College Logo" class="logo" />
     <h2>Login to Your College Account</h2>
     <form action="#" method="post">
